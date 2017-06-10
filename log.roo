@@ -5,3 +5,5 @@ module focus --moduleName ~
 module create --moduleName ui --topLevelPackage com.equisettle.ui --packaging POM
 module create --moduleName client --topLevelPackage com.school.ui.client
 module focus --moduleName common
+module focus --moduleName ui\client
+web mvc setup
